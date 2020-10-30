@@ -6,3 +6,7 @@ def hello():
 def happyHalloween():
     print("SPOOOOOOOOOKY")
 
+def dracula():
+    print("I vant to suck your blood!")
+    print("I am a scary vampire!!!!")
+    
