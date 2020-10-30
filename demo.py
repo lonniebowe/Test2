@@ -2,3 +2,7 @@
 
 def hello():
     print("Hello!")
+    
+def happyHalloween():
+    print("SPOOOOOOOOOKY")
+
